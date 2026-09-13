@@ -8,3 +8,4 @@
 {"_e":"metro:bundling:started","_t":1789327267289,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
 {"_e":"metro:bundling:started","_t":1789327267462,"id":"2","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
 {"_e":"metro:bundling:done","_t":1789327306709,"id":"1","total":2686,"ms":39419.335001}
+{"_e":"metro:bundling:done","_t":1789327309005,"id":"2","total":1,"ms":41541.870001}
