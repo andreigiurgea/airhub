@@ -1,3 +1,6 @@
 {"_e":"root:init","_t":1789327250374,"format":"v0-jsonl","version":"57.0.22"}
 {"_e":"env:mode","_t":1789327250376,"nodeEnv":"development","babelEnv":"development","mode":"development"}
 {"_e":"env:load","_t":1789327250387,"mode":"development","files":["../../../.env"],"env":{"EXPO_PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtlb2V0amVuaGtybmN0cWN5dWdlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU3MTk0MDUsImV4cCI6MjA5MTI5NTQwNX0.80KEOwHURZLKTftcn2XYyNMnZSEyIx14r2lP7-o-Ngk","EXPO_PUBLIC_SUPABASE_URL":"https://keoetjenhkrnctqcyuge.supabase.co"}}
+{"_e":"devserver:start","_t":1789327251129,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789327251772,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789327252292,"plugins":[]}
