@@ -9,3 +9,5 @@
 {"_e":"metro:bundling:started","_t":1789327267462,"id":"2","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
 {"_e":"metro:bundling:done","_t":1789327306709,"id":"1","total":2686,"ms":39419.335001}
 {"_e":"metro:bundling:done","_t":1789327309005,"id":"2","total":1,"ms":41541.870001}
+{"_e":"metro:client_log","_t":1789327310679,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1789327310680,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
